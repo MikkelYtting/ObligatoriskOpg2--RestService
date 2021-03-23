@@ -39,15 +39,18 @@ namespace UserStoryRest.Controllers
         {
             return userstoryManager.Update(id, value);
         }
-
-
         // GET: UserStoryController/Delete/5
         [HttpDelete("{id}")]
         public bool Delete(int id)
         {
             return userstoryManager.Delete(id);
         }
-
+        // opgave 6, a: forkert
+        //[HttpGet("{state}")]
+        // public UserStory GetToDo(string state)
+        // {
+        //return userstoryManager.GetByState(state);
+        //  }
 
     }
 }

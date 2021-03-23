@@ -11,7 +11,7 @@ namespace UserStoryRest.Manager
         private static int _nextid = 1;
         private static List<UserStory> UserStoryData = new List<UserStory>()
         {
-            new UserStory{id = _nextid++, tittle = "AddItem", description = "As a user i want to add an item to the list", businessValue = 4, state = "Doing"},
+            new UserStory{id = _nextid++, tittle = "AddItem", description = "As a user i want to add an item to the list", businessValue = 4, state = "todo"},
             new UserStory{id = _nextid++, tittle = "DeleteItem", description = "As a user i want to delete an item from the list", businessValue = 4, state = "Doing"},
             new UserStory{id = _nextid++, tittle = "UpdateItem", description = "As a user i want to update an item on the list", businessValue = 4, state = "Doing"},
         };
@@ -24,6 +24,12 @@ namespace UserStoryRest.Manager
         {
             return UserStoryData.Find(UserStory => UserStory.id == id);
         }
+        // opgave 6, a: forkert
+        //public UserStory GetByState(string state)
+        //{
+          //  return (UserStory)UserStoryData.OrderBy(UserStory => UserStory.state == state);
+            
+       // }
         public UserStory Add(UserStory newUserStory)
         {
             newUserStory.id = _nextid++;
