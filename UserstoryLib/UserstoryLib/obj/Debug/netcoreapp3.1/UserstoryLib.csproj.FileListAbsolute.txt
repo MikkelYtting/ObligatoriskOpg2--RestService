@@ -1,0 +1,9 @@
+C:\3. semester Programmering LOKALT\2 Obligatoriske opgave programmering\RestService\ObligatoriskOpg2--RestService\UserstoryLib\UserstoryLib\bin\Debug\netcoreapp3.1\UserstoryLib.deps.json
+C:\3. semester Programmering LOKALT\2 Obligatoriske opgave programmering\RestService\ObligatoriskOpg2--RestService\UserstoryLib\UserstoryLib\bin\Debug\netcoreapp3.1\UserstoryLib.dll
+C:\3. semester Programmering LOKALT\2 Obligatoriske opgave programmering\RestService\ObligatoriskOpg2--RestService\UserstoryLib\UserstoryLib\bin\Debug\netcoreapp3.1\UserstoryLib.pdb
+C:\3. semester Programmering LOKALT\2 Obligatoriske opgave programmering\RestService\ObligatoriskOpg2--RestService\UserstoryLib\UserstoryLib\obj\Debug\netcoreapp3.1\UserstoryLib.csprojAssemblyReference.cache
+C:\3. semester Programmering LOKALT\2 Obligatoriske opgave programmering\RestService\ObligatoriskOpg2--RestService\UserstoryLib\UserstoryLib\obj\Debug\netcoreapp3.1\UserstoryLib.AssemblyInfoInputs.cache
+C:\3. semester Programmering LOKALT\2 Obligatoriske opgave programmering\RestService\ObligatoriskOpg2--RestService\UserstoryLib\UserstoryLib\obj\Debug\netcoreapp3.1\UserstoryLib.AssemblyInfo.cs
+C:\3. semester Programmering LOKALT\2 Obligatoriske opgave programmering\RestService\ObligatoriskOpg2--RestService\UserstoryLib\UserstoryLib\obj\Debug\netcoreapp3.1\UserstoryLib.csproj.CoreCompileInputs.cache
+C:\3. semester Programmering LOKALT\2 Obligatoriske opgave programmering\RestService\ObligatoriskOpg2--RestService\UserstoryLib\UserstoryLib\obj\Debug\netcoreapp3.1\UserstoryLib.dll
+C:\3. semester Programmering LOKALT\2 Obligatoriske opgave programmering\RestService\ObligatoriskOpg2--RestService\UserstoryLib\UserstoryLib\obj\Debug\netcoreapp3.1\UserstoryLib.pdb
